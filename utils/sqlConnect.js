@@ -1,4 +1,4 @@
-var mysql = require('mysql');   require_once
+var mysql = require('mysql');   //require_once
 var config = require('../config');
 
 const connect = mysql.createConnection({
